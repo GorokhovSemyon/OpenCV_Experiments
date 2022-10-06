@@ -1,7 +1,6 @@
 # OpenCV Features
 
-![Picture](https://github.com/GorokhovSemyon/Simple_bash_scripst-MacOS-/blob/develop/materials/bin_bash.png)
-
+![Picture](https://github.com/GorokhovSemyon/OpenCV_Experiments/blob/master/materials/computer_vision_2.jpg)
 ## Introduction
 
 OpenCV ([Open Source Computer Vision Library](https://opencv.org/)) is an open library for working with computer vision algorithms, machine learning and image processing. It is written in C++, but it also exists for Python, JavaScript, Ruby and other programming languages. Works on Windows, Linux and macOS, iOS and Android.

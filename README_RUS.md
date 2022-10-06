@@ -1,6 +1,6 @@
 # Возможности OpenCV
 
-![Picture](https://github.com/GorokhovSemyon/Simple_bash_scripst-MacOS-/blob/develop/materials/bin_bash.png)
+![Picture](https://github.com/GorokhovSemyon/OpenCV_Experiments/blob/master/materials/computer_vision_2.jpg)
 
 ## Введение
 
